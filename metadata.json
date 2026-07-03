@@ -1,0 +1,8 @@
+{
+  "name": "Remix: GuardianBot Companion App",
+  "description": "GuardianBot Companion App - Mobile application for AI surveillance robot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
